@@ -2,7 +2,7 @@
 
 ### ¡Bienvenido al Toolkit de Ciberseguridad del Blue Team! 👨‍💻🔐
 
-Hola, soy **Ruben Lopez Hernandez**, un ingeniero en Tecnologías de la Información y Comunicación (TIC's) de México, con 25 años de experiencia en el mundo digital. Nací el 8 de abril, y desde muy joven, mi pasión por la tecnología me ha llevado a especializarme en el **hacking ético** y la **defensa cibernética**. Este repositorio es una colección de herramientas y recursos que he reunido para ayudar a otros a proteger sistemas, monitorear redes, y gestionar incidentes de ciberseguridad desde una perspectiva **Blue Team**.
+Hola, soy **Ruben Lopez Hernandez**, un ingeniero en Tecnologías de la Información y Comunicación (TIC's) de México, con 5 años de experiencia en el mundo digital. Nací el 8 de abril, y desde muy joven, mi pasión por la tecnología me ha llevado a especializarme en el **hacking ético** y la **defensa cibernética**. Este repositorio es una colección de herramientas y recursos que he reunido para ayudar a otros a proteger sistemas, monitorear redes, y gestionar incidentes de ciberseguridad desde una perspectiva **Blue Team**.
 
 ---
 
